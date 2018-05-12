@@ -1,0 +1,31 @@
+_repo: Geographic-Variation-in-the-North-American-Cyprinid-Fish-Hybopsis-gracilis_38425
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Olund, Leonard J.
+    gutenberg_agent_id: '39462'
+    url: http://www.gutenberg.org/2009/agents/39462
+  - agent_name: Cross, Frank B. (Frank Bernard)
+    alias: Cross, Frank Bernard
+    birthdate: 1925
+    deathdate: 2001
+    gutenberg_agent_id: '37930'
+    url: http://www.gutenberg.org/2009/agents/37930
+description: ''
+gutenberg_issued: '2011-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cyprinidae'
+- !lcc 'QH'
+- !lcsh 'Fishes -- North America'
+title: Geographic Variation in the North American Cyprinid Fish, Hybopsis gracilis
+url: http://www.gutenberg.org/ebooks/38425
